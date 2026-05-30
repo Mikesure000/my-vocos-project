@@ -1,0 +1,2 @@
+import{aA as a,aq as t,an as r}from"./index-D-rzqL67.js";var e={},u=r;Object.defineProperty(e,"__esModule",{value:!0});var i=e.default=void 0,o=u(a()),d=t;i=e.default=(0,o.default)((0,d.jsx)("path",{d:"M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75z"}),"Edit");export{i as d};
+//# sourceMappingURL=Edit-Ch_KcEZU.js.map

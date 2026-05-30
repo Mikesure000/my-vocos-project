@@ -1,0 +1,2 @@
+import{aA as r,aq as t,an as u}from"./index-D-rzqL67.js";var e={},n=u;Object.defineProperty(e,"__esModule",{value:!0});var d=e.default=void 0,v=n(r()),i=t;d=e.default=(0,v.default)((0,i.jsx)("path",{d:"m16 18 2.29-2.29-4.88-4.88-4 4L2 7.41 3.41 6l6 6 4-4 6.3 6.29L22 12v6z"}),"TrendingDown");var a={},o=u;Object.defineProperty(a,"__esModule",{value:!0});var l=a.default=void 0,f=o(r()),s=t;l=a.default=(0,f.default)((0,s.jsx)("path",{d:"m22 12-4-4v3H3v2h15v3z"}),"TrendingFlat");export{l as a,d};
+//# sourceMappingURL=TrendingFlat-ClylPT2H.js.map
